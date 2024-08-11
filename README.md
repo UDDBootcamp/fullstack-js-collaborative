@@ -22,7 +22,7 @@ This is the collaborative repository for the Fullstack JavaScript Web Developmen
 To get started, clone this repository and install the necessary dependencies:
 
 ```bash
-git clone https://github.com/your-organization/fullstack-js-collaborative.git
+git clone https://github.com/UDDBootcamp/fullstack-js-collaborative.git
 cd fullstack-js-collaborative
 ```
 
