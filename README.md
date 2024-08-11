@@ -32,8 +32,8 @@ cd fullstack-js-collaborative
 
 - **`main`**: The main branch contains stable, production-ready code.
 - **`development`**: The development branch contains the latest changes that are ready for testing.
-- **Feature branches**: Each cell works on their own feature branch, named as `feature/group-name/your-feature-name`. 
-  - For example, if your group is called "Célula Alpha" and you're working on adding authentication, your branch could be named `feature/celula-alpha/authentication`.
+- **Feature branches**: Each cell works on their own feature branch, named as `nombrecelula/feature/your-feature-name`. 
+  - For example, if your group is called "Célula Alpha" and you're working on adding authentication, your branch could be named `celula-alpha/feature/authentication`.
 
 ## 📝 Commit Message Guidelines
 
@@ -50,7 +50,7 @@ Types can include:
 
 ## 🔄 Pull Request Process
 
-1. **Create a Feature Branch**: Work on a feature branch named as `feature/group-name/your-feature-name`.
+1. **Create a Feature Branch**: Work on a feature branch named as `nombrecelula/feature/your-feature-name`.
 2. **Pull Request**: Open a pull request to merge your feature branch into `development`.
 3. **Code Review**: At least one other group must review and approve the pull request.
 4. **Approval**: The designated approver, Luis Marcelo Riquelme Araneda, will give the final approval.
