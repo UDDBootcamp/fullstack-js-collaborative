@@ -5,10 +5,12 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/UDDBootcamp/fullstack-js-collaborative)
 ![GitHub issues](https://img.shields.io/github/issues/UDDBootcamp/fullstack-js-collaborative)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/UDDBootcamp/fullstack-js-collaborative)
+![PSeInt](https://img.shields.io/badge/pseudocode-PSeInt-blue?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAAHElEQVQI12P4//8/w38GIAXDIBKE0DHxgljNBAAO9TXL0Y4OHwAAAABJRU5ErkJggg==)
+![Pseudocode](https://img.shields.io/badge/language-Pseudocode-yellow)
 
 ## 📚 Overview
 
-This is the collaborative repository for the Fullstack JavaScript Web Development course. Students work in cells to refactor and enhance projects as they learn new technologies. The goal is to apply best practices in collaborative development using branches, pull requests, and code review.
+This is the collaborative repository for the Fullstack JavaScript Web Development course at UDD. Students are organized into cells to refactor and enhance projects as they learn new technologies. The goal is to apply best practices in collaborative development using branches, pull requests, and code review.
 
 ## 🛠️ Repository Structure
 
