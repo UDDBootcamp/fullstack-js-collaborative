@@ -23,7 +23,7 @@ const obtenerNumeros = () => {
         numeros.forEach(function(numero) { 
         if(isNaN (numero)){
             todook = false
-            alert('Sólo se admiten números ');
+            alert('Sólo se admiten números. Intente nuevamente');
         }            
         });        
         if(todook){
