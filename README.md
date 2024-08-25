@@ -35,6 +35,12 @@ cd fullstack-js-collaborative
 - **Feature branches**: Each cell works on their own feature branch, named as `nombrecelula/feature/your-feature-name`. 
   - For example, if your group is called "Célula Alpha" and you're working on adding authentication, your branch could be named `celula-alpha/feature/authentication`.
 
+### 📢 Coordination for using the `development` branch
+
+- If you need to use the `development` branch to test your changes, please notify the cohort chat.
+- Specify the day and time you plan to use the `development` branch and until when you will be using it.
+- Please take turns and coordinate usage to avoid conflicts.
+
 ## 📝 Commit Message Guidelines
 
 Please follow this format for commit messages:
